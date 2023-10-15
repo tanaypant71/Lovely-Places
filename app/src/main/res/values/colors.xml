@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#6499E9</color>
+    <color name="lightblue">#9EDDFF</color>
+    <color name="skyblue">#A6F6FF</color>
+
+    <!-- #6499E9 #9EDDFF #A6F6FF #BEFFF7 -->
+
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="button_background_color">#63ace5</color>
+
+</resources>
